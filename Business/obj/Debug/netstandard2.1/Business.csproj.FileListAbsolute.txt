@@ -1,0 +1,32 @@
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csprojAssemblyReference.cache
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/Apple/Projects/ReCapProject/Business/obj/Debug/netstandard2.1/Business.pdb
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Projects/ReCapProject/Business/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Business/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.csprojAssemblyReference.cache
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/Apple/Desktop/ReCapProject Okan/Business/obj/Debug/netstandard2.1/Business.pdb

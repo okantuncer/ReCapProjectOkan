@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{469E8DE5-B2A9-4098-9642-0C2C320A7097}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs">
+    <Files>
+      <File FileName="DataAccess/Concrete/EntityFramework/EfColorDal.cs" Line="7" Column="1" />
+      <File FileName="DataAccess/Abstract/ICarImageDal.cs" Line="11" Column="1" />
+      <File FileName="Business/Concrete/CarImageManager.cs" Line="11" Column="2" />
+      <File FileName="Business/Abstract/ICarImageService.cs" Line="16" Column="1" />
+      <File FileName="WebAPI/Controllers/CarImagesController.cs" Line="34" Column="47" />
+      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" Line="13" Column="6" />
+      <File FileName="Entities/Concrete/CarImage.cs" Line="21" Column="1" />
+      <File FileName="Entities/Concrete/Color.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReCapProject" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,18 @@
+/Users/Apple/Projects/ReCapProject/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/Apple/Projects/ReCapProject/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Projects/ReCapProject/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/Apple/Projects/ReCapProject/Core/obj/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/Apple/Desktop/ReCapProject Okan/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Desktop/ReCapProject Okan/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/Apple/Desktop/ReCapProject Okan/Core/obj/Debug/netstandard2.1/Core.pdb

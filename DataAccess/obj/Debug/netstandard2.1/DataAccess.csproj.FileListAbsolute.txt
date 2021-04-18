@@ -1,0 +1,28 @@
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csprojAssemblyReference.cache
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Projects/ReCapProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Projects/ReCapProject/DataAccess/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.csprojAssemblyReference.cache
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/Apple/Desktop/ReCapProject Okan/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb

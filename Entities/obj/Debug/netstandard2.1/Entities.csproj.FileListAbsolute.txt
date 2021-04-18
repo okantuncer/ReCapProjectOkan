@@ -1,0 +1,24 @@
+/Users/Apple/Projects/ReCapProject/Entities/bin/Debug/netstandard2.1/Entities.deps.json
+/Users/Apple/Projects/ReCapProject/Entities/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Projects/ReCapProject/Entities/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.csprojAssemblyReference.cache
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfoInputs.cache
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfo.cs
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Projects/ReCapProject/Entities/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Projects/ReCapProject/Entities/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Projects/ReCapProject/Entities/obj/Debug/netstandard2.1/Entities.csproj.CopyComplete
+/Users/Apple/Desktop/ReCapProject Okan/Entities/bin/Debug/netstandard2.1/Entities.deps.json
+/Users/Apple/Desktop/ReCapProject Okan/Entities/bin/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Desktop/ReCapProject Okan/Entities/bin/Debug/netstandard2.1/Entities.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Entities/bin/Debug/netstandard2.1/Core.dll
+/Users/Apple/Desktop/ReCapProject Okan/Entities/bin/Debug/netstandard2.1/Core.pdb
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.csprojAssemblyReference.cache
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfoInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfo.cs
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.csproj.CoreCompileInputs.cache
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.csproj.CopyComplete
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.dll
+/Users/Apple/Desktop/ReCapProject Okan/Entities/obj/Debug/netstandard2.1/Entities.pdb
